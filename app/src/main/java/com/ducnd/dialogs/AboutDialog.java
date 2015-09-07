@@ -29,7 +29,6 @@ import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
 import android.widget.CheckBox;
 
-import com.ducnd.sampleswipelistview.R;
 import com.ducnd.utils.PreferencesManager;
 
 public class AboutDialog extends DialogFragment {

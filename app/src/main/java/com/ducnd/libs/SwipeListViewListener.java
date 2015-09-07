@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package libs;
+package com.ducnd.libs;
 
 /**
  * Listener to get callback notifications for the SwipeListView

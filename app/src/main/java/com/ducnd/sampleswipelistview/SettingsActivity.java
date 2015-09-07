@@ -16,19 +16,22 @@
  *  limitations under the License.
  */
 
-package com.ducnd.activity;
+package com.ducnd.sampleswipelistview;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextUtils;
 import android.text.TextWatcher;
-import android.widget.*;
+import android.widget.CheckBox;
+import android.widget.CompoundButton;
+import android.widget.EditText;
+import android.widget.RadioButton;
+import android.widget.SeekBar;
+import android.widget.TextView;
 
-import com.ducnd.sampleswipelistview.R;
+import com.ducnd.libs.SwipeListView;
 import com.ducnd.utils.SettingsManager;
-
-import libs.SwipeListView;
 
 public class SettingsActivity extends Activity {
 

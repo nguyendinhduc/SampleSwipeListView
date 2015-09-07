@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-package libs;
+package com.ducnd.libs;
 
 import android.graphics.Rect;
 import android.os.Build;

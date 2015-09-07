@@ -1,4 +1,4 @@
-package libs;
+package com.ducnd.libs;
 
 public class BaseSwipeListViewListener implements SwipeListViewListener {
     @Override

@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package libs;
+package com.ducnd.libs;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -30,6 +30,7 @@ import android.view.ViewConfiguration;
 import android.view.ViewGroup;
 import android.widget.ListAdapter;
 import android.widget.ListView;
+
 import com.ducnd.sampleswipelistview.R;
 
 import java.util.List;

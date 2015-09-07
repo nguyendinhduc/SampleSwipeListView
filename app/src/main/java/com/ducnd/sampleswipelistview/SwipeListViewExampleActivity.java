@@ -1,5 +1,5 @@
 
-package com.ducnd.activity;
+package com.ducnd.sampleswipelistview;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -21,7 +21,8 @@ import android.widget.ListView;
 import com.ducnd.adapters.PackageAdapter;
 import com.ducnd.adapters.PackageItem;
 import com.ducnd.dialogs.AboutDialog;
-import com.ducnd.sampleswipelistview.R;
+import com.ducnd.libs.BaseSwipeListViewListener;
+import com.ducnd.libs.SwipeListView;
 import com.ducnd.utils.PreferencesManager;
 import com.ducnd.utils.SettingsManager;
 
@@ -29,8 +30,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import libs.BaseSwipeListViewListener;
-import libs.SwipeListView;
+
 
 public class SwipeListViewExampleActivity extends FragmentActivity {
     private static final String TAG = "SwipeListViewActivity";

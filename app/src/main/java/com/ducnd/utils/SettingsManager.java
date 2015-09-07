@@ -19,7 +19,8 @@
 package com.ducnd.utils;
 
 
-import libs.SwipeListView;
+import com.ducnd.libs.SwipeListView;
+
 
 public class SettingsManager {
 
